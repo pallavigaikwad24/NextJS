@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "username": "sunny_dev",
+        "description": "Exploring the latest in frontend development with React and Tailwind CSS. Sharing daily UI tips and tricks to improve your web apps.",
+        "img": "img",
+        "profileImg": "img"
+    },
+    {
+        "id": 2,
+        "username": "travel_jane",
+        "description": "Wanderlust soul capturing beautiful landscapes and hidden travel gems around the world. Join me on my photo adventures!",
+        "img": "img",
+        "profileImg": "img"
+    },
+    {
+        "id": 3,
+        "username": "foodielove",
+        "description": "Tasting and reviewing delicious dishes, from street food to gourmet meals. If you love food, follow along for some flavor-packed content.",
+        "img": "img",
+        "profileImg": "img"
+    },
+    {
+        "id": 4,
+        "username": "fitwithmax",
+        "description": "Fitness isn’t a destination, it’s a journey. Sharing workouts, motivation, and healthy habits for a stronger lifestyle.",
+        "img": "img",
+        "profileImg": "img"
+    },
+    {
+        "id": 5,
+        "username": "artsy_ava",
+        "description": "Creating digital illustrations, portraits, and abstract art. I love bringing colors and imagination to life on canvas and screen.",
+        "img": "img",
+        "profileImg": "img"
+    }
+]

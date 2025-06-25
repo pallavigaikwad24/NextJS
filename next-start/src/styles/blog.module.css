@@ -1,0 +1,9 @@
+/* Scoped scrollbar styling */
+#main::-webkit-scrollbar {
+    width: 3px;
+}
+
+#main::-webkit-scrollbar-thumb {
+    border-radius: 20px;
+    background: #60646b;
+}
